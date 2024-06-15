@@ -1,5 +1,8 @@
 # Graph-Grabber Build 3.0
 Import a graph, define its axies, and GRAAAAB its data :3
+
+!!!The complied executable file (standalone) is in the executable folder!!!
+
 Its useable at this point, but there are some known issues:
 
 If some buttons are not visible, try to make the window larger
