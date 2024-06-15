@@ -1,10 +1,18 @@
 Import a Graph, define its ranges, and GRAAAB its data :3
 
+!!!Download the .exe file if you just want to use it!!!
+
+
 Here are some known issues:
 
-If some buttons are not visible, try enlarging the window
+Cursor is not visible in the main window.
 
-Some file formats are not supported
+If some buttons are not visible, try enlarging the window.
+
+Some file formats are not supported.
+
+Feel free to play with the config file, but some changes
+may cause crashes.
 
 If you want to use the zoom function, make sure that the 
 graph have a good amount of space on all four sides, this 
